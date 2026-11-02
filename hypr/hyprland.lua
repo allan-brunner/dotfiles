@@ -1,0 +1,11 @@
+-- Load modular configuration files from ~/.config/hypr/
+require("programs")
+require("input")
+require("autostart")
+require("environment_var")
+require("window_rules")
+require("keybindings")
+require("look_and_feel")
+require("monitors")
+require("permissions")
+require("settings")
